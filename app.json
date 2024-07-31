@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Recipez",
+    "slug": "Recipez",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.harsh7190.Recipez"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8be5b447-bdb1-485e-a92e-1e5597fc6fae"
+      }
+    }
+  }
+}
